@@ -1,0 +1,10 @@
+* chrome-native-messaging
+
+A package to communicate with a Chrome extension as the native application
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ralt/chrome-native-messaging.git   |
+| commit  | 6655fc4  |
+| systems | chrome-native-messaging |
+|---------+-------------------------------------------|
+
